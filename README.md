@@ -101,9 +101,8 @@
 
 <p><strong>Step 6: Add the User to the ACCOUNTANTS Group</strong></p>
 <ul>
-  <li>I logged out of <strong>Client-1</strong> as <strong><someuser></strong>.</li>
+  <li>I logged out of <strong>Client-1</strong></li>
   <li>Back on <strong>DC-1</strong>, I made (bam.wed) <strong><someuser></strong> a member of the <strong>ACCOUNTANTS</strong> group.</li>
-  <li>I logged back into <strong>Client-1</strong> as <strong><someuser></strong>.</li>
 </ul>
 
 <p align="center">
@@ -114,7 +113,7 @@
 
 <p><strong>Step 7: Test Access to the Accounting Folder Again</strong></p>
 <ul>
-  <li>After signing back into <strong>Client-1</strong>, I tried accessing the <strong>accounting</strong> share again at <strong>\\DC-1</strong> and verified that I now had <strong>Read/Write</strong> access to the folder as expected.</li>
+  <li>After signing back into <strong>Client-1</strong>, I tried accessing the <strong>accounting</strong> share again and verified that I now had <strong>Read/Write</strong> access to the folder as expected.</li>
 </ul>
 
 <p align="center">
