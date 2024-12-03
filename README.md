@@ -28,7 +28,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bbf66868-90c0-4c6c-bd66-6e2ec18af0c9" alt="File Shares Configuration" width="80%">
+  <img src="https://github.com/user-attachments/assets/bbf66868-90c0-4c6c-bd66-6e2ec18af0c9" alt="File Shares Configuration" img width="1440"">
 </p>
 
 
@@ -47,15 +47,15 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/89989eb6-5b29-4512-90a6-8a236a101ffc" alt="Testing File Shares Access" width="80%">
+  <img src="https://github.com/user-attachments/assets/89989eb6-5b29-4512-90a6-8a236a101ffc" alt="Testing File Shares Access" img width="1440"">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0b50264-0dc0-4288-aabb-b154c76b4a83" alt="Testing File Shares Access" width="80%">
+  <img src="https://github.com/user-attachments/assets/f0b50264-0dc0-4288-aabb-b154c76b4a83" alt="Testing File Shares Access" img width="1440"">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e475a3f9-bc9e-46d5-963c-7fd4b837159d" alt="Testing File Shares Access" width="80%">
+  <img src="https://github.com/user-attachments/assets/e475a3f9-bc9e-46d5-963c-7fd4b837159d" alt="Testing File Shares Access" img width="1440"">
 </p>
 
 
@@ -75,11 +75,11 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6838ca5-caa3-47e9-a2b0-06d70ed15868" alt="Creating ACCOUNTANTS Security Group" width="80%">
+  <img src="https://github.com/user-attachments/assets/a6838ca5-caa3-47e9-a2b0-06d70ed15868" alt="Creating ACCOUNTANTS Security Group" img width="1440"">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/229db556-5531-4e87-8218-49fe8d19d08a" alt="Creating ACCOUNTANTS Security Group" width="80%">
+  <img src="https://github.com/user-attachments/assets/229db556-5531-4e87-8218-49fe8d19d08a" alt="Creating ACCOUNTANTS Security Group" img width="1440"">
 </p>
 
 
@@ -91,7 +91,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ffbc6a63-8db9-4928-a04a-b5f40cc78d86" alt="Testing Access Denied to Accounting Folder" width="80%">
+  <img src="https://github.com/user-attachments/assets/ffbc6a63-8db9-4928-a04a-b5f40cc78d86" alt="Testing Access Denied to Accounting Folder" img width="1440"">
 </p>
 
 
@@ -107,7 +107,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73c094b1-2fd1-4760-9e05-5d542763e681" alt="Testing Access to Accounting Folder After Group Addition" width="80%">
+  <img src="https://github.com/user-attachments/assets/73c094b1-2fd1-4760-9e05-5d542763e681" alt="Testing Access to Accounting Folder After Group Addition" img width="1440"">
 </p>
 
 
@@ -118,7 +118,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69144c9c-328b-4da7-a6b4-92593b23b96f" alt="Testing Access to Accounting Folder After Group Addition" width="80%">
+  <img src="https://github.com/user-attachments/assets/69144c9c-328b-4da7-a6b4-92593b23b96f" alt="Testing Access to Accounting Folder After Group Addition" img width="1440"">
 </p>
 
 
